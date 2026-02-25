@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "brusszel-com-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dd1bbb3c-eedc-4ddf-b0f1-5ef5e7d347f2",
+			"database_name": "brusszel-com-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
